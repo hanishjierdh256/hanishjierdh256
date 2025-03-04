@@ -5,7 +5,7 @@ I’m a 4th-semester student at Southern Alberta Institute of Technology, mainta
 - **Tech Stack**: Python, C#, Java, React, React Native, Oracle, Svelte, JavaScript  
 - **Additional Tools**: Comfortable using JIRA for project management  
 - **Interests**: Building IoT projects (currently developing a self-driving car using Arduino) and 3D printing  
-- **Certifications in Progress**: Working on my AWS Cloud Practitioner  
+- **Certifications**: AWS Cloud Practitioner  
 - **Strengths**: Attention to detail, problem-solving skills, and a love for hands-on technology challenges  
 
 I’m always excited to learn new technologies and collaborate on innovative projects. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hanish-jierdh-91820a60/).
