@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a 4th-semester student at Southern Alberta Institute of Technology, maintaining a 4.0/4.0 GPA. I originally studied mechanical engineering, but now I’m focused on **backend and database development**.
+I’m a 3rd-year student at the University of Calgary, maintaining a 4.0/4.0 GPA. I originally studied mechanical engineering, but now I’m focused on **backend and database development**.
 
 - **Tech Stack**: Python, C#, Java, React, React Native, Oracle, Svelte, JavaScript  
 - **Additional Tools**: Comfortable using JIRA for project management  
