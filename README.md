@@ -6,7 +6,7 @@ I'm a 3rd-year Computer Science student at the University of Calgary, maintainin
 - **Web & Mobile**: React, React Native, Svelte
 - **Databases & Cloud**: Oracle (PL/SQL), Firebase/Firestore, AWS, Docker, Kubernetes
 - **Tools**: Git, JIRA
-- **Interests**: Building IoT projects (currently developing a self-driving car using Arduino) and 3D printing
+- **Interests**: Building IoT projects and 3D printing
 - **Certifications**: AWS Cloud Practitioner
 - **Strengths**: Attention to detail, problem-solving, and a love for hands-on technology challenges
 
